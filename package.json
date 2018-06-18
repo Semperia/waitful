@@ -1,0 +1,25 @@
+{
+	"name": "waitful",
+	"version": "0.0.1",
+	"description": "An elegant way to use events and callbacks",
+	"license": "MIT",
+	"repository": "Semperia/waitful",
+	"author": {
+		"name": "Semesse",
+		"email": "Semperia@outlook.com"
+	},
+	"engines": {
+		"node": ">=4.0.0"
+	},
+	"files": [
+		"waitful.js"
+	],
+	"keywords": [
+        "wait",
+        "event",
+        "events",
+        "listener",
+        "promise",
+        "await"
+	]
+}
